@@ -1,0 +1,38 @@
+<annotation>
+	<folder>notdrowning</folder>
+	<filename>notdrowning50_000015.jpg</filename>
+	<path>C:\Users\lutimoth\Documents\SpringBoard\RIIPEN_ANTLER\Pool_Drowning_Detection\Tim Notebooks\Tensorflow\workspace\second_training\images\notdrowning\notdrowning50_000015.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NotDrowning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>774</xmin>
+			<ymin>126</ymin>
+			<xmax>821</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NotDrowning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>263</ymin>
+			<xmax>593</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</annotation>

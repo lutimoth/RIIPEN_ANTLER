@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drowning</folder>
+	<filename>drowning8_000006.jpg</filename>
+	<path>C:\Users\lutimoth\Documents\SpringBoard\RIIPEN_ANTLER\Pool_Drowning_Detection\Tim Notebooks\Tensorflow\workspace\second_training\images\drowning\drowning8_000006.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Drowning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>242</ymin>
+			<xmax>665</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>
